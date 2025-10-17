@@ -16,6 +16,7 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=w" />
+   <img align="center" alt="php" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=w" />
 </div><br/>
 
 💻 Formado em Analise e Desenvolvimento de Sistemas e cursando Engenharia de Software. Com experiência em Java, Node.js ,React Native e Javascript, sendo que essa experiencia foi adquirida através de projetos na faculdade e no Estagio na Presidência da República..
