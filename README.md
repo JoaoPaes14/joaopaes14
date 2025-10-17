@@ -18,5 +18,5 @@
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=w" />
 </div><br/>
 
-💻 Formadode Analise e Desenvolvimento de Sistemas e cursando Engenharia de Software. Com experiência em Java, Node.js ,React Native e Javascript, sendo que essa experiencia foi adquirida através de projetos na faculdade e no Estagio na Presidência da República..
+💻 Formado em Analise e Desenvolvimento de Sistemas e cursando Engenharia de Software. Com experiência em Java, Node.js ,React Native e Javascript, sendo que essa experiencia foi adquirida através de projetos na faculdade e no Estagio na Presidência da República..
 Possuo foco no Desenvolvimento Back-End, mas também me interesso e estudo o Front-end. Me considero uma pessoa que aprende facilmente, sem dificuldades para me adaptar a uma nova linguagem ou ao um novo desafio.
