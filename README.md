@@ -19,5 +19,10 @@
 
 </div><br/>
 
-💻 Formado em Analise e Desenvolvimento de Sistemas e cursando Engenharia de Software. Com experiência em Java, Node.js ,React Native e Javascript, sendo que essa experiencia foi adquirida através de projetos na faculdade e no Estagio na Presidência da República..
-Possuo foco no Desenvolvimento Back-End, mas também me interesso e estudo o Front-end. Me considero uma pessoa que aprende facilmente, sem dificuldades para me adaptar a uma nova linguagem ou ao um novo desafio.
+💻 Desenvolvedor de Software formado em Análise e Desenvolvimento de Sistemas e Engenharia de Software, com experiência no 
+desenvolvimento, manutenção e evolução de aplicações web, sistemas legados e aplicações mobile. Possuo maior atuação em 
+Back-End, com experiência em Java, Spring Boot, Node.js, PHP e bancos de dados relacionais, além de experiência em 
+desenvolvimento Front-End. Durante minha trajetória, participei de projetos reais envolvendo APIs, regras de negócio, integração 
+com bancos de dados e desenvolvimento de novas funcionalidades. Atuei como estagiário na Presidência da República, 
+contribuindo para a manutenção e evolução de sistemas legados e adquirindo experiência prática. Busco crescer profissionalmente 
+em equipes ágeis, contribuindo com soluções eficientes, código limpo e boas práticas de desenvolvimento.
