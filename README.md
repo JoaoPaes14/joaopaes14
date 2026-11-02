@@ -10,19 +10,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-## 👨‍💻 Sobre mim
-
-Sou Desenvolvedor de Software, formado em Análise e Desenvolvimento de Sistemas e Engenharia de Software, com experiência no desenvolvimento, manutenção e evolução de aplicações web, sistemas legados e aplicações mobile.
-
-Tenho maior atuação em **Back-End**, trabalhando principalmente com Java, Spring Boot, Node.js e PHP, além de experiência com bancos de dados relacionais, APIs REST e desenvolvimento Front-End.
-
-Durante minha trajetória, participei de projetos reais envolvendo implementação de regras de negócio, integração com bancos de dados, correção de problemas e desenvolvimento de novas funcionalidades.
-
-Atuei como estagiário de TI na Presidência da República, contribuindo para a manutenção e evolução de sistemas utilizados no ambiente institucional.
-
-Estou sempre buscando aprimorar meus conhecimentos, desenvolver soluções eficientes e evoluir profissionalmente por meio de boas práticas de programação e aprendizado contínuo.
-
 ## 🚀 Tecnologias e ferramentas
 
 **Back-End**
@@ -46,6 +33,19 @@ Estou sempre buscando aprimorar meus conhecimentos, desenvolver soluções efici
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+## 👨‍💻 Sobre mim
+
+Sou Desenvolvedor de Software, formado em Análise e Desenvolvimento de Sistemas e Engenharia de Software, com experiência no desenvolvimento, manutenção e evolução de aplicações web, sistemas legados e aplicações mobile.
+
+Tenho maior atuação em **Back-End**, trabalhando principalmente com Java, Spring Boot, Node.js e PHP, além de experiência com bancos de dados relacionais, APIs REST e desenvolvimento Front-End.
+
+Durante minha trajetória, participei de projetos reais envolvendo implementação de regras de negócio, integração com bancos de dados, correção de problemas e desenvolvimento de novas funcionalidades.
+
+Atuei como estagiário de TI na Presidência da República, contribuindo para a manutenção e evolução de sistemas utilizados no ambiente institucional.
+
+Estou sempre buscando aprimorar meus conhecimentos, desenvolver soluções eficientes e evoluir profissionalmente por meio de boas práticas de programação e aprendizado contínuo.
+
 
 ## 📊 GitHub Stats
 
